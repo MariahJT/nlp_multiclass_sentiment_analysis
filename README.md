@@ -1,1 +1,1 @@
-# NLP_Project
+# Multi-class sentiment analysis
